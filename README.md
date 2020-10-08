@@ -6,8 +6,11 @@ August 09, 2020
 US Bikeshare Data Analysis Project
 
 ### Description
-This project is about using Python to explore data related to bikeshare system in three major US cities; Chicago, New York City, and Washington. 
-The bikeshare.py file is a menu-based script in which the data of the desired city gets imported and then analyzed in order to answer a set of interesing questions 
+This project is about using Python to explore and analyze data related to bikeshare system in three major US cities; Chicago, New York City, and Washington. 
+The bikeshare.py file is a menu-based script in which the data of the desired city gets imported and then analyzed in order to answer a set of interesing questions.
+This script file has a couple of features like but not limited to:
+1. The user can filter the information by city, month and weekday, in order to get statistical information related to a specific subset of data. 
+2. Enabling the user to view raw data. 
 
 ### Files used
 The required files for running Python script file: 
