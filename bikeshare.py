@@ -238,7 +238,7 @@ def user_stats(df):
 
 def raw_data(df, mark_place): 
     """
-    Displays raw data.
+    Displays 5 lines of raw data.
     
     mark_place - this variable holds where the user last stopped
     """
