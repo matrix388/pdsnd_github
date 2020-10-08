@@ -25,3 +25,8 @@ Here's a list of the useful resourcse that helped me in completing this project:
 	https://stackoverflow.com/a/26266451/9664319
 4. How to iterate over rows in a Pandas DataFrame in order to view 5 lines of raw data
 	https://stackoverflow.com/questions/16476924/how-to-iterate-over-rows-in-a-dataframe-in-pandas
+
+### Requirements
+This project was completed in python evnironment of version 3.8.3 and with the following packages:
+numpy==1.19.2
+pandas==1.1.2
