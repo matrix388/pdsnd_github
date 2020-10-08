@@ -245,6 +245,7 @@ def raw_data(df, mark_place):
     
     display_raw_input = input("\nWould you like to see raw data? Enter 'yes' or 'no'\n").strip().lower()
     if display_raw_input in ("yes", "y"):
+        # Each loop displays 5 lines of raw data
         while True:
             for i in range(mark_place, len(df.index)):
                 print("\n")
