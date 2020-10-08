@@ -1,8 +1,9 @@
+### Programming for Data Science with Python Nanodegree Program Project @ Udacity
 ### Date created
-Include the date you created this project and README file.
+August 09, 2020
 
 ### Project Title
-Replace the Project Title
+US Bikeshare Data Analysis Project
 
 ### Description
 Describe what your project is about and what it does
